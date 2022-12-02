@@ -1,4 +1,4 @@
-# Check out the finished website [here](https://disney-plus-clone-64a94.web.app/home)
+# Check out the finished website [here](https://disney-plus-clone-64a94.web.app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
